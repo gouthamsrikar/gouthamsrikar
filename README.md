@@ -8,6 +8,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamsrikar&layout=compact&theme=synthwave" alt="gouthamsrikar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouthamsrikar&show_icons=true&theme=synthwave" alt="gouthamsrikar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gouthamsrikar&show_icons=true&theme=synthwave" alt="gouthamsrikar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouthamsrikar&theme=synthwave" alt="gouthamsrikar" /></p>
