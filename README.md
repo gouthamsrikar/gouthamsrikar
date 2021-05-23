@@ -1,5 +1,5 @@
 <h1 align="center">Shazam, I'm gouthamsrikar⚡</h1>
-<h3 align="center">say my name so my powers may flow through you</h3>
+<h3 align="center">say my name so my code may flow through you</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouthamsrikar&label=Profile%20views&color=0e75b6&style=flat" alt="gouthamsrikar" /> </p
 <h3 align="left">Languages and Tools:</h3>
