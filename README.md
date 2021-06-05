@@ -7,7 +7,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamsrikar&layout=compact&theme=synthwave" alt="gouthamsrikar" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamsrikar&layout=compact&theme=synthwave" alt="gouthamsrikar"  width="100"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gouthamsrikar&show_icons=true&theme=synthwave" alt="gouthamsrikar" />
 </p>
 
